@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Marium
 
-I'm a **Behavioral Scientist** and **Data Analyst** passionate about turning data into meaningful insights. I combine psychological expertise with technical skills to solve real-world problems through data.
+I'm a **Behavioral Scientist** and **Data Analyst** passionate about transforming data into actionable insights. I bridge the gap between human behavior and data science, combining psychological expertise with technical skills to solve real-world problems.
 
 ## 🎯 What I Do
 
 I specialize in:
-- 📊 **Data Analysis & Visualization**: SQL, Power BI, Tableau, Python (in process)
-- 🧠 **Behavioral Research**: Psychometrics, Statistical Modeling, Experimental Design
+- 📊 **Data Analysis & Visualization**: SQL, Power BI, Tableau, Python
+- 🧠 **Behavioral Research**: Psychometrics, Statistical Modeling, Experimental Design  
 - 🏗️ **Data Engineering**: Building data warehouses, ETL pipelines, dimensional modeling
 - 📈 **Business Intelligence**: Creating dashboards and analytical solutions
 
@@ -52,28 +52,27 @@ Data-driven insights for behavioral interventions and wellness programs.
 
 ## 💼 Skills & Tools
 
-**Data & Analytics:**  
+**Data & Analytics:**
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**Statistical Analysis:**  
+**Statistics & Research:**
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+**Data Engineering:**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4285F4?style=flat&logo=apache-airflow&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mjb222&show_icons=true&theme=radical)
+![Marium's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjb222&show_icons=true&theme=radical)
 
 ---
 
-💡 *"Transforming complex data into actionable insights, one analysis at a time."*
+💡 *"Data tells stories, and I help uncover them through the lens of human behavior."*
