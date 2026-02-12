@@ -47,8 +47,7 @@ Data-driven insights for behavioral interventions and wellness programs.
 
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Data-Warehouse-Project-57eee2f701e5441094f3ce7f41a614ec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mariumuxr.github.io)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjb222.github.io/mariumdatanalysis.github.io/)
 ---
 
 ## 💼 Skills & Tools
