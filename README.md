@@ -5,7 +5,7 @@ I'm a **Behavioral Scientist** and **Data Analyst** passionate about turning dat
 ## 🎯 What I Do
 
 I specialize in:
-- 📊 **Data Analysis & Visualization**: SQL, Python, R, Power BI, Tableau
+- 📊 **Data Analysis & Visualization**: SQL, Power BI, Tableau, Python(in process)
 - 🧠 **Behavioral Research**: Psychometrics, Statistical Modeling, Experimental Design
 - 🏗️ **Data Engineering**: Building data warehouses, ETL pipelines, dimensional modeling
 - 📈 **Business Intelligence**: Creating dashboards and analytical solutions
@@ -15,7 +15,7 @@ I specialize in:
 ## 🚀 Featured Projects
 
 ### 📦 **SQL Data Warehouse Project**
-Complete end-to-end data warehouse with dimensional modeling, ETL processes, and analytical views following industry best practices.
+Complete end-to-end data warehouse with dimensional modeling, ETL processes, and analytical views following industry best practices. Built following [Data with Baara's](https://www.youtube.com/@DataWithBaraa) comprehensive tutorial.
 
 🔗 [View Project](https://github.com/Mjb222/sql-data-warehouse-pro) | 📋 [Project Documentation](https://www.notion.so/Data-Warehouse-Project-57eee2f701e5441094f3ce7f41a614ec)
 
@@ -32,7 +32,7 @@ Complete end-to-end data warehouse with dimensional modeling, ETL processes, and
 ### 📊 **Behavioral Data Analytics**
 Advanced statistical analysis combining psychological assessment with data science methods.
 
-**Tech Stack**: Python, R, SPSS, Statistical Modeling
+**Tech Stack**: Python, SPSS, Statistical Modeling
 
 ---
 
@@ -45,7 +45,7 @@ Data-driven insights for behavioral interventions and wellness programs.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Data-Warehouse-Project-57eee2f701e5441094f3ce7f41a614ec)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mariumuxr.github.io)
 
@@ -64,7 +64,7 @@ Data-driven insights for behavioral interventions and wellness programs.
 SPSS • Statistical Modeling • Psychometrics • Experimental Design • A/B Testing
 
 **Languages:**  
-🇬🇧 English (Fluent) • 🇵🇰 Urdu (Native) • 🇩🇪 German (B1)
+🇬🇧 English (Fluent) • 🇵🇰 Urdu & Punjabi (Native) • 🇩🇪 German (B1)
 
 ---
 
